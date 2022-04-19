@@ -8,6 +8,8 @@
   - [Kaggle](https://www.kaggle.com/jaimefalconsolis "Kaggle"), 
   - [Stack Overflow](https://stackoverflow.com/users/18505014/jaime-falc%c3%b3n-sol%c3%ads "Stack Overflow")
   - [Instagram](https://www.instagram.com/jaimefalconsolis/ "Instagram")
+  - [Deepnote](https://deepnote.com/@jaimefalconsolis/ "Deepnote")
+  - [Data.world](https://data.world/jaimefalconsolis/ "Data.world")
 
 <!---
 JaimeFalconSolis/JaimeFalconSolis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
