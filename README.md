@@ -10,6 +10,8 @@
   - [Instagram](https://www.instagram.com/jaimefalconsolis/ "Instagram")
   - [Deepnote](https://deepnote.com/@jaimefalconsolis/ "Deepnote")
   - [Data.world](https://data.world/jaimefalconsolis/ "Data.world")
+  - [DataCamp](https://www.datacamp.com/profile/jaimefalconsolis/ "DataCamp")
+  - [Platzi](https://platzi.com/p/jaimefalconsolis/ "Platzi")
 
 <!---
 JaimeFalconSolis/JaimeFalconSolis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
