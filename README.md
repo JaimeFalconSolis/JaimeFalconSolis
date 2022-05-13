@@ -1,3 +1,8 @@
+## A little about me
+I'm a Biotechnologist and Data Scientist, my passion are science, especially biological sciences, technology, all about data science and machine learning. 
+Currently, my main goal is get my first job as a Data Scientist / Data Analyst.
+
+
 - 👋 Hi, My name is @JaimeFalconSolis I'm a biotechnologist
 - 👀 I’m interested in data science, machine learning, artificial intelligence, genomics, genetics engineering and biotechnology
 - 🌱 I’m currently learning all aboutddata science (python, SQL, statistics, data visualization ...)
