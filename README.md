@@ -1,12 +1,14 @@
 ![Background](https://drive.google.com/uc?export=view&id=122fp2rscTMZTj4aLpkaPcg0i9F7lvLUk)
 
 ### 👋🏻 HI FRIEND, IT'S-A ME, JAIME
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   - I'm a Biotech engineer trying to be a Data Scientist.
   - My passions are science (molecular biology, genomicas, genetics engineering) and technology (all about data science and machine learning). 
   - Currently, my main goal is get my first job as a Data Scientist / Data Analyst.
 
 ### 🌎 YOU CAN FIND ME ON
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/jaimefalconsoli)
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jaimefalconsolis/)
@@ -19,6 +21,7 @@
   [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/jaimefalconsolis)
 
 ### 👨‍💻 SOME TECHNOLOGIES I CAN USE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -31,11 +34,18 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📚 SOME TECHNOLOGIES I'M CURRENTLY LEARNING
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![GCP](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white)
   ![GCP](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBi&logoColor=white)
+  
+### MY STATS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimefalconsolis&show_icons=true&theme=dark)<br/><br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimefalconsolis&layout=compact)](https://github.com/jaimefalconsolis/github-readme-stats)
 
 <!---
 JaimeFalconSolis/JaimeFalconSolis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
