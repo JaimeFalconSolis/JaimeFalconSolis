@@ -19,6 +19,7 @@
   [<img src="https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=white">](https://deepnote.com/@jaimefalconsolis)
   [<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=DataCamp&logoColor=white">](https://www.datacamp.com/profile/jaimefalconsolis)
   [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">](https://public.tableau.com/app/profile/jaimefalconsolis)
+  [<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">](https://www.freecodecamp.org/jaimefalconsolis)
 
 ### 👨‍💻 SOME TECHNOLOGIES I CAN USE
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
